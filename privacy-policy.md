@@ -1,4 +1,4 @@
-Datenschutzerklärung
+⁹Datenschutzerklärung
 
 Einführung
 
@@ -10,8 +10,8 @@ außer wie in dieser Datenschutzerklärung beschrieben.
 
 Informationserfassung und -verwendung
 
-Für eine bessere Erfahrung bei der Nutzung unseres Dienstes können wir Sie bitten, uns bestimmte personenbezogene Informationen zur Verfügung zu stellen, einschließlich, 
-aber nicht beschränkt auf den Benutzernamen, den Standort und Bilder. Die von uns angeforderten Informationen werden gespeichert und nur gemäß dieser Datenschutzerklärung verwendet. 
+Für eine bessere Erfahrung bei der Nutzung unseres Dienstes können Sie gebeten werden, bestimmte personenbezogene Informationen zur Verfügung zu stellen, einschließlich, 
+aber nicht beschränkt auf den Benutzernamen, den Standort und Bilder. Die angeforderten Informationen werden gespeichert und nur gemäß dieser Datenschutzerklärung verwendet. 
 Die App verwendet Dienste von Drittanbietern, die Informationen zur Identifizierung von Ihnen sammeln können. 
 
 Cookies
@@ -33,31 +33,31 @@ Darüber hinaus werden solche Informationen keine Identifizierung des einzelnen 
 
 Dienstleister
 
-Wir können aus folgenden Gründen Drittanbieterunternehmen und Einzelpersonen beschäftigen:
+Aus folgenden Gründen können Drittanbieterunternehmen und Einzelpersonen beschäftigt werden:
 
-Zur Erleichterung unseres Dienstes; Um den Dienst in unserem Auftrag zu erbringen;
+Zur Erleichterung des angebotenen  Dienstes; Um den Dienst im Auftrag zu erbringen;
 Zur Durchführung dienstbezogener Leistungen; oder
-Um uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.
+um bei der Analyse der Nutzung des Dienstes zu unterstützen.
 
 Die Benutzer dieses Dienstes sollen hier darüber informiert werden, dass diese Drittanbieter Zugriff auf Ihre persönlichen Informationen haben. 
-Der Grund dafür ist die Erfüllung der ihnen übertragenen Aufgaben in unserem Auftrag. Sie sind jedoch verpflichtet, die Informationen nicht offenzulegen oder für andere Zwecke zu verwenden. 
+Der Grund dafür ist die Erfüllung der ihnen übertragenen Aufgaben im Auftrag. Sie sind jedoch verpflichtet, die Informationen nicht offenzulegen oder für andere Zwecke zu verwenden. 
 
 Sicherheit
 
-Olaf Arras schätzt Ihr Vertrauen, Ihre persönlichen Informationen zur Verfügung zu stellen, und bemüht sich, akzeptable Mittel zum Schutz zu verwenden. 
+Olaf Arras schätzt Ihr Vertrauen Ihre persönlichen Informationen zur Verfügung zu stellen, und bemüht sich, akzeptable Mittel zum Schutz zu verwenden. 
 Denken Sie jedoch daran, dass keine Übertragungsmethode über das Internet oder Methode zur elektronischen Speicherung zu 100 % sicher und zuverlässig ist, und keine absolute Sicherheit garantiert werden kann. 
 
 Datenschutz für Kinder
 
-Dieser Dienst richtet sich nicht an Personen unter 13 Jahren. Olaf Arras sammelt wissentlich keine persönlich identifizierbaren Informationen von Kindern unter 13 Jahren. 
+Dieser Dienst richtet sich nicht an Personen unter 13 Jahren. Es werden wissentlich keine persönlich identifizierbaren Informationen von Kindern unter 13 Jahren gesammelt. 
 Falls festgestellt wird, dass ein Kind unter 13 Jahren personenbezogene Informationen zur Verfügung gestellt hat, werden diese umgehend gelöscht. 
-Wenn Sie Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind mir personenbezogene Informationen zur Verfügung gestellt hat, 
+Wenn Sie Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind personenbezogene Informationen zur Verfügung gestellt hat, 
 kontaktieren Sie mich bitte, damit ich die erforderlichen Maßnahmen ergreifen können
 
 Änderungen an dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung wird von Zeit zu Zeit aktualisiert. Daher wird empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen.
-Ich werde Sie über alle Änderungen informieren, indem ich die neue Datenschutzerklärung auf dieser Seite veröffentliche. Diese Änderungen sind sofort nach ihrer Veröffentlichung auf dieser Seite wirksam.
+Über Änderungen werden Sie informiert, indem eine neue Datenschutzerklärung auf dieser Seite veröffentlicht wird. Diese Änderungen sind sofort nach ihrer Veröffentlichung auf dieser Seite wirksam.
 
 Kontaktieren Sie mich
 
