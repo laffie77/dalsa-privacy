@@ -36,7 +36,8 @@ Darüber hinaus werden solche Informationen keine Identifizierung des einzelnen 
 
 Aus folgenden Gründen können Drittanbieterunternehmen und Einzelpersonen beschäftigt werden:
 
-- Zur Erleichterung des angebotenen  Dienstes; Um den Dienst im Auftrag zu erbringen;
+- Zur Erleichterung des angebotenen  Dienstes;
+- Um den Dienst im Auftrag zu erbringen;
 - Zur Durchführung dienstbezogener Leistungen; oder
 - um bei der Analyse der Nutzung des Dienstes zu unterstützen.
 
