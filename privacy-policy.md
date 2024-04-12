@@ -63,6 +63,6 @@ Diese Datenschutzerklärung wird von Zeit zu Zeit aktualisiert. Daher wird empfo
 
 ## Kontaktinformationen
 
-Wenn Sie Fragen oder Anregungen zu unserer Datenschutzerklärung haben, zögern Sie nicht, den Entwickler zu kontaktieren.
+Wenn Sie Fragen oder Anregungen zu dieser Datenschutzerklärung haben, zögern Sie nicht, den Entwickler zu kontaktieren.
 
 Kontaktinformationen: E-Mail: olaf.arras@gmail.com
