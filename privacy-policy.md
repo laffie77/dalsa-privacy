@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Diese Datenschutzerklärung hilft Ihnen zu verstehen, welche Informationen bei Verwendung der DaLSA-App gesammelt werdens, wie diese verwendet werden und welche Wahlmöglichkeiten Sie haben. 
+Diese Datenschutzerklärung hilft Ihnen zu verstehen, welche Informationen bei Verwendung der DaLSA-App gesammelt werden, wie diese verwendet werden und welche Wahlmöglichkeiten Sie haben. 
 Der Entwickler stellt die DaLSA-App kostenlos zur Verfügung. Sie wird zu Recherche- und Informationszwecken angeboten und ist für die Verwendung “wie sie ist” vorgesehen. 
 Wenn Sie sich für die Nutzung dieser App entscheiden, stimmen Sie der Erfassung und Verwendung von Informationen im Zusammenhang mit dieser Richtlinie zu. 
 Die erfassten personenbezogenen Daten werden für die Bereitstellung und Verbesserung der App verwendet. Ihre Informationen werden sonst nicht weiter verwendet oder mit anderen geteilt, 
@@ -25,6 +25,7 @@ Wenn Sie Cookies ablehnen, können Sie möglicherweise einige Teile dieser App n
 ## Standortinformationen
 
 Einige der Dienste können Standortinformationen verwenden, die von den Mobiltelefonen der Benutzer übertragen werden. Diese Informationen werden nur im Rahmen des für den bestimmten Dienst erforderlichen Umfangs verwendet. 
+Die App selbst erhebt und verarbeitet aktuell keine Standortinformationen. Es ist jedoch nicht ausgeschlossen, dass dies in Zukunft erfolgt, um den Funktionsumfang der App zu erweitern.
 
 ## Geräteinformationen
 
@@ -59,7 +60,7 @@ kontaktieren Sie bitte den Entwickler, damit dieser die erforderlichen Maßnahme
 Diese Datenschutzerklärung wird von Zeit zu Zeit aktualisiert. Daher wird empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen.
 Über Änderungen werden Sie informiert, indem eine neue Datenschutzerklärung auf dieser Seite veröffentlicht wird. Diese Änderungen sind sofort nach ihrer Veröffentlichung auf dieser Seite wirksam.
 
-## Kontaktieren Sie mich
+## Kontaktinformationen
 
 Wenn Sie Fragen oder Anregungen zu unserer Datenschutzerklärung haben, zögern Sie nicht, den Entwickler zu kontaktieren.
 
